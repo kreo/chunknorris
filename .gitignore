@@ -61,3 +61,5 @@ typings/
 
 *.lock
 *-lock.json
+
+.idea
